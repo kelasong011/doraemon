@@ -1,0 +1,19 @@
+{
+  "name": "doraemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "display.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelasong011/doraemon.git"
+  },
+  "author": "kelasong011",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelasong011/doraemon/issues"
+  },
+  "homepage": "https://github.com/kelasong011/doraemon#readme"
+}
